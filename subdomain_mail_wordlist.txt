@@ -1,0 +1,8 @@
+mail
+mail1
+mail2
+mail3
+mailing
+smtp
+email
+webmail
