@@ -9,3 +9,11 @@ monitor01
 monitor02
 monitoramento
 ipmonitor
+webstats
+awstats
+netstats
+labstats
+logtstats
+log
+livestats
+livemonitoring
